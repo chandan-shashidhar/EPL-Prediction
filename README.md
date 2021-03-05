@@ -1,10 +1,11 @@
-# EPL-Prediction-2019
-This repo contains dataset, trained models, fixtures of EPL season 2018/2019 and IPython Notebook (ipynb) file.
+# EPL-Prediction
+This repo contains dataset, trained models, fixtures of EPL season 2019 and IPython Notebook (ipynb) file.
 
 
 
 ## Dataset
-The dataset contains data for last 10 seasons of English Premier League including current season. 
+The dataset contains data for last 10 seasons of English Premier League including current season.
+
 [DataHub](https://datahub.io/sports-data/english-premier-league) 
 
 
